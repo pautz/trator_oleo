@@ -1,0 +1,393 @@
+Dados Recebidos: Array
+(
+    [cv] => 201722034
+    [boat_id] => 321
+    [oilLevel] => 500
+    [nextChange] => 2025-03-28
+    [nextChangeValue] => 600
+    [whatsapp_number] => +55996479747
+    [payment_status] => Pago
+)
+
+Data Formatada: 28-03-25
+Dados Recebidos: Array
+(
+    [cv] => 201722034
+    [boat_id] => 321
+    [oilLevel] => 500
+    [nextChange] => 2025-03-28
+    [nextChangeValue] => 600
+    [whatsapp_number] => +55996479747
+    [payment_status] => Pago
+)
+
+Data Formatada: 2025-03-28
+Dados Recebidos: Array
+(
+    [cv] => 201722034
+    [boat_id] => 321
+    [oilLevel] => 1000
+    [nextChange] => 2025-03-28
+    [nextChangeValue] => 5000
+    [whatsapp_number] => +5555996479747
+    [payment_status] => Pago
+)
+
+Data Formatada: 2025-03-28
+Dados Recebidos: Array
+(
+    [cv] => 201722034
+    [boat_id] => 321
+    [oilLevel] => 1000
+    [nextChange] => 2025-03-28
+    [nextChangeValue] => 5000
+    [whatsapp_number] => +5555996479747
+    [payment_status] => Pago
+)
+
+Data Formatada: 28-03-25
+Dados Recebidos: Array
+(
+    [cv] => 201722034
+    [boat_id] => 321
+    [oilLevel] => 500
+    [nextChange] => 2025-03-28
+    [nextChangeValue] => 6000
+    [whatsapp_number] => +5555996479747
+    [payment_status] => Pago
+)
+
+Data no Formato MySQL: 2025-03-28
+Erro: Data inválida para o campo Próxima Prestação.
+Erro: Data inválida para o campo Próxima Prestação.
+Dados Recebidos: Array
+(
+    [cv] => 201722034
+    [boat_id] => 321
+    [oilLevel] => 500
+    [nextChange] => 2025-03-28
+    [nextChangeValue] => 6000
+    [whatsapp_number] => +55996479747
+    [payment_status] => Pago
+)
+
+Data no Formato MySQL: 2025-03-28
+Erro: Data inválida para o campo Próxima Prestação.
+Dados Recebidos: Array
+(
+    [cv] => 201722034
+    [boat_id] => 231
+    [oilLevel] => 500
+    [nextChange] => 2025-03-28
+    [nextChangeValue] => 600
+    [whatsapp_number] => +55996479747
+    [payment_status] => Pago
+)
+
+Data no Formato MySQL: 2025-03-28
+Dados Recebidos: Array
+(
+    [cv] => 201722031
+    [boat_id] => 201721424
+    [oilLevel] => 8000
+    [nextChange] => 2025-04-28
+    [nextChangeValue] => 10000
+    [whatsapp_number] => +5555996479747
+    [payment_status] => Não Pago
+)
+
+Data no Formato MySQL: 2025-04-28
+Dados Recebidos: Array
+(
+    [cv] => 201722032
+    [boat_id] => 201721424
+    [oilLevel] => 10000
+    [nextChange] => 2025-03-28
+    [nextChangeValue] => 12000
+    [whatsapp_number] => +55996479747
+    [payment_status] => Não Pago
+)
+
+Data no Formato MySQL: 2025-03-28
+Dados Recebidos: Array
+(
+    [cv] => 201722033
+    [boat_id] => 201721424
+    [oilLevel] => 12000
+    [nextChange] => 2025-04-28
+    [nextChangeValue] => 14000
+    [whatsapp_number] => +55996479747
+    [payment_status] => Não Pago
+)
+
+Data no Formato MySQL: 2025-04-28
+Erro: Dados incompletos.
+Erro: Dados incompletos.
+Erro: Dados incompletos.
+Erro: Dados incompletos.
+Erro: Dados incompletos.
+Dados Recebidos: Array
+(
+    [cv] => 546565
+    [boat_id] => 54654
+    [oilLevel] => 65565
+    [nextChange] => 2025-03-06
+    [nextChangeValue] => 65546
+    [whatsapp_number] => 546546
+    [paymentstatus] => Não Pago
+)
+
+Dados Recebidos: Array
+(
+    [cv] => 56454
+    [boat_id] => 546546
+    [oilLevel] => 546546
+    [nextChange] => 2025-03-14
+    [nextChangeValue] => 6456546
+    [whatsapp_number] => 6546546
+    [paymentstatus] => Não Pago
+)
+
+Usuário: pofft - Dados Recebidos: Array
+(
+    [cv] => 123
+    [boat_id] => 123
+    [oilLevel] => 5454
+    [nextChange] => 2025-03-21
+    [nextChangeValue] => 123
+    [whatsapp_number] => 123
+    [paymentstatus] => Não Pago
+    [eq_user] => NomeDoUsuario
+)
+
+Usuário: pofft - Dados Recebidos: Array
+(
+    [cv] => 64565
+    [boat_id] => 56546
+    [oilLevel] => 546546
+    [nextChange] => 2025-04-26
+    [nextChangeValue] => 456546
+    [whatsapp_number] => 56565465
+    [paymentstatus] => Não Pago
+    [eq_user] => NomeDoUsuario
+)
+
+Usuário: pofft - Dados Recebidos: Array
+(
+    [cv] => 201722043
+    [boat_id] => 201721424
+    [oilLevel] => 500
+    [nextChange] => 2025-03-28
+    [nextChangeValue] => 600
+    [whatsapp_number] => +55996479747
+    [paymentstatus] => Não Pago
+    [eq_user] => NomeDoUsuario
+)
+
+Usuário: pofft - Dados Recebidos: Array
+(
+    [cv] => 54655465
+    [boat_id] => 321
+    [oilLevel] => 5445
+    [nextChange] => 2025-03-21
+    [nextChangeValue] => 5654
+    [whatsapp_number] => 55654
+    [paymentstatus] => Não Pago
+    [eq_user] => NomeDoUsuario
+)
+
+Usuário: admin - Dados Recebidos: Array
+(
+    [cv] => 201722074
+    [boat_id] => 201721424
+    [oilLevel] => 500
+    [nextChange] => 2025-03-29
+    [nextChangeValue] => 600
+    [whatsapp_number] => +55996479747
+    [paymentstatus] => Pago
+    [eq_user] => NomeDoUsuario
+)
+
+Usuário: admin - Dados Recebidos: Array
+(
+    [cv] => 201722074
+    [boat_id] => 201721424
+    [oilLevel] => 500
+    [nextChange] => 2025-03-29
+    [nextChangeValue] => 600
+    [whatsapp_number] => +55996129682
+    [paymentstatus] => Pago
+    [eq_user] => NomeDoUsuario
+)
+
+Usuário: admin - Dados Recebidos: Array
+(
+    [cv] => 201721424
+    [boat_id] => 201722073
+    [oilLevel] => 600
+    [nextChange] => 2025-04-29
+    [nextChangeValue] => 700
+    [whatsapp_number] => +55996129682
+    [paymentstatus] => Não Pago
+    [eq_user] => NomeDoUsuario
+)
+
+Usuário: admin - Dados Recebidos: Array
+(
+    [cv] => 201722072
+    [boat_id] => 201721424
+    [oilLevel] => 700
+    [nextChange] => 2025-05-29
+    [nextChangeValue] => 800
+    [whatsapp_number] => +55996129682
+    [paymentstatus] => Não Pago
+    [eq_user] => NomeDoUsuario
+)
+
+Usuário: admin - Dados Recebidos: Array
+(
+    [cv] => 201722071
+    [boat_id] => 201721424
+    [oilLevel] => 800
+    [nextChange] => 2025-05-29
+    [nextChangeValue] => 900
+    [whatsapp_number] => +55996129682
+    [paymentstatus] => Não Pago
+    [eq_user] => NomeDoUsuario
+)
+
+Usuário: admin - Dados Recebidos: Array
+(
+    [cv] => 201722070
+    [boat_id] => 201721424
+    [oilLevel] => 900
+    [nextChange] => 2025-05-29
+    [nextChangeValue] => 1000
+    [whatsapp_number] => +55996129682
+    [paymentstatus] => Não Pago
+    [eq_user] => NomeDoUsuario
+)
+
+[2025-03-29 14:39:40] Erro: Unknown column 'boat_id' in 'SELECT'
+[2025-03-29 14:49:12] Usuário Logado: admin
+[2025-03-29 14:49:23] Usuário Logado: admin
+[2025-03-29 14:56:49] Erro: Unknown column 'registration_date' in 'SELECT'
+[2025-03-29 14:56:52] Erro: Unknown column 'registration_date' in 'SELECT'
+[2025-03-29 14:57:20] Erro: Unknown column 'registration_date' in 'SELECT'
+[2025-03-29 15:52:52] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:52:55] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:52:58] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:53:00] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:53:05] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:53:37] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:55:17] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:55:58] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:01] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:02] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:02] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:03] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:04] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:05] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:06] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:32] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:34] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:34] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:35] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:36] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:37] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:38] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:39] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:41] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:41] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:42] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 15:56:45] Erro: Nenhum registro encontrado para atualizar ou o valor já está atualizado.
+[2025-03-29 16:05:12] Erro: Dados incompletos. O campo 'cv' é obrigatório.
+[2025-03-29 16:05:19] Erro: Dados incompletos. O campo 'cv' é obrigatório.
+[2025-03-29 16:05:27] Erro: Dados incompletos. O campo 'cv' é obrigatório.
+[2025-03-29 16:07:43] Erro: Dados incompletos. O campo 'boat_id' é obrigatório.
+[2025-03-29 16:07:50] Erro: Dados incompletos. O campo 'boat_id' é obrigatório.
+[2025-03-29 16:10:46] Erro: Dados incompletos. O campo 'boat_id' é obrigatório.
+[2025-03-29 16:11:59] Usuário autenticado: admin
+[2025-03-29 16:11:59] Erro: Dados incompletos. O campo 'boat_id' é obrigatório.
+[2025-03-29 16:14:13] Usuário autenticado: admin
+[2025-03-29 16:14:13] Erro: Dados incompletos. O campo 'boat_id' é obrigatório.
+[2025-03-29 16:15:03] Usuário autenticado: admin
+[2025-03-29 16:15:03] Erro: Dados incompletos. O campo 'boat_id' é obrigatório.
+[2025-03-29 16:15:07] Usuário autenticado: admin
+[2025-03-29 16:15:07] Boat ID recebido: 201721424
+[2025-03-29 16:15:07] Consulta executada. Linhas afetadas: 4
+[2025-03-29 16:15:25] Usuário autenticado: admin
+[2025-03-29 16:15:25] Erro: Dados incompletos. O campo 'boat_id' é obrigatório.
+[2025-03-29 16:19:53] Erro: Data inválida para o campo Próxima Prestação.
+[2025-03-29 16:24:32] Erro: Campo inválido. Atualizações são permitidas apenas nos campos: oil_level, next_change, next_change_value, whatsapp_number, paymentstatus
+[2025-03-29 16:24:38] Erro: Campo inválido. Atualizações são permitidas apenas nos campos: oil_level, next_change, next_change_value, whatsapp_number, paymentstatus
+[2025-03-29 16:31:57] Erro: Campo inválido. Atualizações são permitidas apenas nos campos: oil_level, next_change, next_change_value, whatsapp_number, paymentstatus
+[2025-03-29 17:07:25] Usuário autenticado: admin
+[2025-03-29 17:07:25] Boat ID recebido: 201722073
+[2025-03-29 17:07:25] Consulta executada. Linhas afetadas: 1
+[2025-03-29 17:07:29] Usuário autenticado: admin
+[2025-03-29 17:07:29] Boat ID recebido: 201722045
+[2025-03-29 17:07:29] Consulta executada. Linhas afetadas: 1
+[2025-03-29 17:07:32] Usuário autenticado: admin
+[2025-03-29 17:07:32] Boat ID recebido: 201722046
+[2025-03-29 17:07:32] Consulta executada. Linhas afetadas: 1
+[2025-03-29 17:13:43] Usuário autenticado: admin
+[2025-03-29 17:13:43] Boat ID recebido: 201722075
+[2025-03-29 17:13:43] Consulta executada. Linhas afetadas: 1
+[2025-03-29 22:39:32] Usuário autenticado: admin
+[2025-03-29 22:39:32] Boat ID recebido: 201722077
+[2025-03-29 22:39:32] Consulta executada. Linhas afetadas: 1
+[2025-03-29 22:39:39] Usuário autenticado: admin
+[2025-03-29 22:39:39] Boat ID recebido: 201722075
+[2025-03-29 22:39:39] Consulta executada. Linhas afetadas: 1
+[2025-03-29 22:39:43] Usuário autenticado: admin
+[2025-03-29 22:39:43] Boat ID recebido: 201722076
+[2025-03-29 22:39:43] Consulta executada. Linhas afetadas: 1
+[2025-03-29 22:43:51] Usuário autenticado: admin
+[2025-03-29 22:43:51] Boat ID recebido: 201722081
+[2025-03-29 22:43:51] Consulta executada. Linhas afetadas: 1
+[2025-03-30 12:24:58] Usuário autenticado: admin
+[2025-03-30 12:24:58] Boat ID recebido: 201722086
+[2025-03-30 12:24:58] Consulta executada. Linhas afetadas: 1
+[2025-03-30 12:28:43] Usuário autenticado: admin
+[2025-03-30 12:28:43] Boat ID recebido: 201722086
+[2025-03-30 12:28:43] Consulta executada. Linhas afetadas: 1
+[2025-03-30 12:33:38] Usuário autenticado: admin
+[2025-03-30 12:33:38] Boat ID recebido: 201722086
+[2025-03-30 12:33:38] Consulta executada. Linhas afetadas: 1
+[2025-03-30 23:43:13] Usuário autenticado: pofft
+[2025-03-30 23:43:13] Boat ID recebido: 201722175
+[2025-03-30 23:43:13] Consulta executada. Linhas afetadas: 1
+[2025-03-30 23:43:16] Usuário autenticado: pofft
+[2025-03-30 23:43:16] Boat ID recebido: 54654
+[2025-03-30 23:43:16] Consulta executada. Linhas afetadas: 1
+[2025-03-30 23:43:20] Usuário autenticado: pofft
+[2025-03-30 23:43:20] Boat ID recebido: 123
+[2025-03-30 23:43:20] Consulta executada. Linhas afetadas: 1
+[2025-03-30 23:43:24] Usuário autenticado: pofft
+[2025-03-30 23:43:24] Boat ID recebido: 201721424
+[2025-03-30 23:43:24] Consulta executada. Linhas afetadas: 1
+[2025-03-30 23:43:27] Usuário autenticado: pofft
+[2025-03-30 23:43:27] Boat ID recebido: 56546
+[2025-03-30 23:43:27] Consulta executada. Linhas afetadas: 1
+[2025-04-01 16:36:17] Usuário autenticado: pofft
+[2025-04-01 16:36:17] Boat ID recebido: 201722196
+[2025-04-01 16:36:17] Consulta executada. Linhas afetadas: 1
+[2025-04-01 20:36:43] Usuário autenticado: pofft
+[2025-04-01 20:36:43] Boat ID recebido: 201722205
+[2025-04-01 20:36:43] Consulta executada. Linhas afetadas: 1
+[2025-04-01 20:36:46] Usuário autenticado: pofft
+[2025-04-01 20:36:46] Boat ID recebido: 201722209
+[2025-04-01 20:36:46] Consulta executada. Linhas afetadas: 1
+[2025-04-01 20:36:49] Usuário autenticado: pofft
+[2025-04-01 20:36:49] Boat ID recebido: 201722212
+[2025-04-01 20:36:49] Consulta executada. Linhas afetadas: 1
+[2025-04-01 20:36:52] Usuário autenticado: pofft
+[2025-04-01 20:36:52] Boat ID recebido: 201722206
+[2025-04-01 20:36:52] Consulta executada. Linhas afetadas: 1
+[2025-04-01 20:36:55] Usuário autenticado: pofft
+[2025-04-01 20:36:55] Boat ID recebido: 201722196
+[2025-04-01 20:36:55] Consulta executada. Linhas afetadas: 1
+[2025-04-01 21:07:13] Erro: Usuário não autenticado.
+[2025-04-03 19:55:26] Erro: Unknown column 'caixa' in 'WHERE'
+[2025-04-03 20:51:10] Erro: Usuário não autenticado.
